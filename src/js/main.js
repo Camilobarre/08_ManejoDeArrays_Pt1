@@ -168,5 +168,4 @@ console.log(listaSupermercado);
 listaSupermercado = listaSupermercado.map(producto => producto.toUpperCase())
 console.log(listaSupermercado);
 
-
 console.groupEnd();
